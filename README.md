@@ -7,7 +7,9 @@
 
 ## Description
 This project is a fun and interactive console-based game that combines the elements of the classic games of Snake and Ladder and Monopoly. It is developed using C++ and follows the principles of Object-Oriented Programming (OOP).
+
 ![image ](https://i.pinimg.com/750x/ad/a9/f5/ada9f502bdb9fc9de6952fee3ba740a1.jpg)
+
 ## Features
 - **Multiplayer:** The game supports multiple players.
 - **Interactive Gameplay:** The game provides an interactive console-based interface.
