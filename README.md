@@ -3,11 +3,11 @@
 
 ![Static badge/](https://badgen.net/badge/C++/OOP) ![badge 2](https://badgen.net/badge/Project/GUI)
 
-
+![image](https://i.pinimg.com/750x/40/50/5e/40505e9fddcdc42224258ba24bcfda98.jpg)
 
 ## Description
 This project is a fun and interactive console-based game that combines the elements of the classic games of Snake and Ladder and Monopoly. It is developed using C++ and follows the principles of Object-Oriented Programming (OOP).
-
+![image ](https://i.pinimg.com/750x/ad/a9/f5/ada9f502bdb9fc9de6952fee3ba740a1.jpg)
 ## Features
 - **Multiplayer:** The game supports multiple players.
 - **Interactive Gameplay:** The game provides an interactive console-based interface.
